@@ -1,0 +1,21 @@
+body {
+    background-color: #fff0f5;
+  }
+  
+  .navbar {
+    background-color: #ffb7c5;
+  }
+  
+  .btn-cherry {
+    background-color: #ff69b4;
+    color: #fff;
+  }
+  
+  .btn-cherry:hover {
+    background-color: #ff1493;
+    color: #fff;
+  }
+  
+  footer {
+    background-color: #ffb7c5;
+  }
